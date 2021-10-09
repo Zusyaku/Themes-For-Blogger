@@ -1,0 +1,19 @@
+<form name="contact-form">
+Name
+<input id="ContactForm1_contact-form-name" name="name" size="30" type="text" value="" />  
+
+Email Address <span style="color: red; font-weight: bolder;">*</span> 
+<input id="ContactForm1_contact-form-email" name="email" size="30" type="text" value="" />  
+
+Content <span style="color: black; font-weight: bolder;">*</span>
+<textarea cols="25" id="ContactForm1_contact-form-email-message" name="email-message" rows="5"></textarea> 
+<input id="ContactForm1_contact-form-submit" type="button" value="Send" />  
+<div style="max-width: auto; text-align: center; width: auto;">
+<div id="ContactForm1_contact-form-error-message">
+</div>
+<div id="ContactForm1_contact-form-success-message">
+</div>
+</div>
+</form>
+<style type="text/css">
+</style>
