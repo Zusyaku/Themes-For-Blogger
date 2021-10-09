@@ -1,0 +1,10 @@
+<span>
+<div class="lalulintas"><span class="rambuhijau">Responsive Ads Here</span>
+</div>
+<style type="text/css">
+.lalulintas{width:100%;height:100px;background:#05ca98;margin:0 auto;position:relative;}
+.rambuhijau{background:#0be6af;position:absolute;display:block;color:rgba(0,0,0,0.2);text-align:center;text-transform:uppercase;letter-spacing:2px;font-size:180%;padding:10px;margin:5px;left:0;right:0;top:0;bottom:0;font-weight:700;line-height:4.4rem}
+@media only screen and (max-width: 768px) {
+.rambuhijau {font-size:100%;}
+}
+</style></span>
