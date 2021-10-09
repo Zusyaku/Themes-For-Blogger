@@ -1,0 +1,10 @@
+<div id='subscribe-css'>
+<p class='subscribe-note'><span>Subscription</span> <span class='itatu'>&</span> Newsletter</p>
+<p class='sub-desc'>Subscribe for New Post Notifications</p>
+<div class='subscribe-wrapper'>
+<div class='subscribe-form'>
+<form action='http://feedburner.google.com/fb/a/mailverify?uri=templatesyard' class='subscribe-form' method='post' onsubmit='window.open (&apos;http://feedburner.google.com/fb/a/mailverify?uri=templatesyard&apos;, &apos;popupwindow&apos;, &apos;scrollbars=yes,width=550,height=520&apos;);return true' target='popupwindow'>
+<input name='uri' type='hidden' value='templatesyard'/><input name='loc' type='hidden' value='en_US'/><input autocomplete='off' class='subscribe-css-email-field' name='email' placeholder='Enter your Email'/><input class='subscribe-css-email-button' title='' type='Submit' value='Subscribe'/></form>
+</div>
+</div>
+</div>
