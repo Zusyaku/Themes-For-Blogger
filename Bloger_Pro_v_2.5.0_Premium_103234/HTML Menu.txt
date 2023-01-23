@@ -1,0 +1,37 @@
+Cara Menggunakan :
+
+1. Blogger > Tata Letak / Layuot > Menu Navigasi
+
+2. Letakan / Salin kode HTML dibawah ini :
+
+<ul>
+<li><a href="/">Menu 1</a></li>
+<li class="has-sub"><a href="#">Menu 2</a>
+<ul>
+<li><a href="#">Sub Menu 1</a></li>
+<li><a href="#">Sub Menu 2</a></li>
+</ul>
+</li>
+<li class="has-sub"><span class="submenu-button"></span><a href="#">Menu 3</a>
+<ul>
+<li><a href="#">Sub Menu 1<span class="menu-badge">NEW</span></a></li>
+<li><a href="#">Sub Menu 2<span class="menu-badge">NEW</span></a></li>
+<li><a href="#">Sub Menu 3</a></li>
+</ul>
+</li>
+<li><a href="#">Menu 4</a>
+</li>
+<li class="has-sub"><span class="submenu-button"></span><a href="#">Menu 5</a>
+<ul>
+<li><a href="#">Sub Menu 1</a></li>
+<li><a href="#">Sub Menu 2</a></li>
+<li><a href="#">Sub Menu 2</a></li>
+<li><a href="#">Sub Menu 3</a></li>
+<li><a href="#">Sub Menu 4</a></li>
+<li><a href="#">Sub Menu 5</a></li>
+</ul></li>
+</ul>
+
+3. Anda dapat mengatur menu link sesuai yang Anda tentukan.
+
+* Butuh bantuan, silahkan kirim pesan ke WhatsApp 085886624531

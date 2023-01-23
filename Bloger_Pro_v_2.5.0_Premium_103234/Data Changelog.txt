@@ -1,0 +1,63 @@
+v.1.0.0 - (05/05/2019)
+
+- Rilis
+
+v.1.2 - (19/05/2019)
+
+- Perbaikan komentar yang tidak bisa membalas
+- Perubahan desain komentar blogger versi terbaru
+- Perbaikan tombol share WhatsApp versi Desktop yang tidak berfungsi
+
+v.1.3.0 - (18/02/2020)
+
+- Perubahan kode layout blogger menjadi versi 2 terbaru
+- Perubahan warna template menjadi biru
+- Penghapusan widget footer
+- Perbaikan lazyload menjadi lebih dinamis
+- Perbaikan kecepatan template 99 / 100 via GTMetrix
+- Perbaikan nilai skor Porfomance template via Lighthouse
+- Perubahan tampilan tata letak lebih fress
+- Perbaikan Breadcrumbs yang Eror di Search console
+- Perbaikan tampilan template kurang Responsive (Ukuran layar 800px)
+- Perubahan kode menu navigasi bisa di edit lewat Tata Letak
+- Penambahan fiktur desainer theme (Warna template Otomatis)
+- Perbaikan tampilan halaman eror 404
+- Perbaikan gambar related post yang kurang Responsive
+- Penambahan meta tag verifikasi Bing/Goolge/DCMA/Pinterst/Alexa
+- Perubahan tampilan widget populart post
+- Perubahan tampilan share Buttons
+- Dan sedikit perubahan CSS lainnya
+
+v.2.2.0 - (21/09/2020)
+- Perubahan kode layout blogger versi 2 (Keseluruhan)
+- Perubahan JavaScript Lazyload terbaru
+- Penghapusan JavaScript Related Post
+- Perubahan tampilan warna dan lainnya
+- Perbaikan Navigasi Scroll yang Error
+- Perubahan tampilan Menu efek Slider (Mobile)
+- Perubahan kode meta tag Otomatis
+
+v.2.3.0 - (04/12/2020)
+- Perbaikan tampilan CSS template yang kurang Responsive
+- Perubahan tampilan Gambar Thumbnail Versi Mobile
+- Perubahan posisi Tentang Penulis dibagian Bawah Postingan
+- Perubahan Meta Tag SEO Template
+- Penambahan Tombol Share Telegram
+- Perubahan tampilan Widget Populart Post bagian Single Post
+
+v.2.4.0 - (19/12/2020)
+- Perbaikan tampilan CSS bagian hasil pencarian
+- Perubahan tampilan Pencarian
+- Perubahan Warna Template menjadi warna German Palette > https://flatuicolors.com/
+- Perubahan tampilan menu slider versi mobile
+
+v.2.5.0 - (15/11/2021)
+- Perbaikan tampilan CSS bagian beranda Template
+- Memperbaiki nilai perfomance template via Web.dev > https://web.dev/measure/
+- Perbaikan schema markup Article yang mendapatkan peringatan > https://search.google.com/test/rich-results
+- Kolom tulisan text pencarian dapat diganti sesuai keinginan
+- Memperbaiki beberapa bagian warna tema yang sebelumnya tidak bisa diganti di menu desainer
+
+Demo Theme > https://generatepress.blogspot.com
+
+Template blogger lainnya > https://www.temabanua.com
